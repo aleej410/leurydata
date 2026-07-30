@@ -64,7 +64,7 @@ web/
 
 ## Antes de indexar en Search Console
 
-- [ ] Reemplazar `https://www.digitaldata.mx` por tu dominio real en **las 10
+- [x ] Reemplazar `https://www.leurydata.it.com` por tu dominio real en **las 10
       páginas** (canonical, Open Graph, JSON-LD) y en `sitemap.xml`. Es un
       buen candidato para un buscar-y-reemplazar en todo `web/`.
 - [ ] Dar de alta el dominio en Google Search Console y enviar `sitemap.xml`.
