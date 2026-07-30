@@ -9,7 +9,7 @@
 const CONFIG = {
   // Número de WhatsApp con código de país, solo dígitos. Ej: '5215512345678'
   WHATSAPP_NUMBER: '5614681778',
-
+   WHATSAPP__MESSAGE: 'Hola, vengo de la página de lEURY DATA y quiero saber más sobre el diagnóstico.',
   // Correo de contacto que se muestra en el footer
   EMAIL: 'alejandroeard410@gmail.com.com',
 
