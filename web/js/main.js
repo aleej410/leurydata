@@ -8,10 +8,10 @@
    ───────────────────────────────────────────── */
 const CONFIG = {
   // Número de WhatsApp con código de país, solo dígitos. Ej: '5215512345678'
-  WHATSAPP_NUMBER: '000000000000',
+  WHATSAPP_NUMBER: '5614681778',
 
   // Correo de contacto que se muestra en el footer
-  EMAIL: 'CORREO@digitaldata.com',
+  EMAIL: 'alejandroeard410@gmail.com.com',
 
   // (Opcional) Webhook para guardar el lead antes de abrir WhatsApp.
   // Déjalo vacío si aún no lo tienes.
