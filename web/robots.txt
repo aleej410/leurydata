@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.digitaldata.mx/sitemap.xml
+Sitemap: https://www.leurydata.it.com/sitemap.xml
